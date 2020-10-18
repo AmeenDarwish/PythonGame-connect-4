@@ -5,12 +5,11 @@ Since for me this was mostly a GUI project i wanted it to be visually pleasing a
 The code is entirely built from scratch using tkinter combined with trail and error to produce a user interactive gui
 
 
-
 ![](welcome_screen.gif)
 
 
 
-![](playing.gif)
+
 
 
 
