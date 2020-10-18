@@ -10,8 +10,9 @@ The code is entirely built from scratch using tkinter combined with trail and er
 
 
 
+user interaction:
 
-
+![](playing.gif)
 
 
 
